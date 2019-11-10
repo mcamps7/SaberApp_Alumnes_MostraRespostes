@@ -44,7 +44,7 @@ public class PreguntaDetailFragment extends Fragment {
     }
 
     /**
-     * This method inflates the fragment's view and shows the song
+     * This method inflates the fragment's view and shows the pregunta
      * detail information.
      *
      * @param inflater LayoutInflater object to inflate views
@@ -71,7 +71,7 @@ public class PreguntaDetailFragment extends Fragment {
      * This method sets up a bundle for the arguments to pass
      * to a new instance of this fragment.
      *
-     * @param selectedPregunta Integer position of selected song in song list
+     * @param selectedPregunta Integer position of selected pregunta in pregunta list
      * @return fragment
      */
     public static PreguntaDetailFragment newInstance (int selectedPregunta) {
