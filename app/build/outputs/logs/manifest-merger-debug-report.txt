@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:3:5-58
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.saberAppMostraRespostes.MainActivity
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:13:13-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.saberAppMostraRespostes.PreguntaDetailActivity
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:parentActivityName
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:25:13-98
+	android:label
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:24:13-58
+	android:theme
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:23:13-94
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:27:13-29:92
+	android:value
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:29:17-89
+	android:name
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/2c1685afc6a9d3b658068d0ce109c41d/transition-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/39a45c25d31764bc5250ed9788485eb0/support-v4-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8b0c06559cca95f817d420423b84ae2f/support-fragment-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/14c6c051300567b03054b069584b8c46/recyclerview-v7-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/f3c599f29f52c79550739f7b8a4de063/animated-vector-drawable-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/268746e37ba13ea5cabd26a859073feb/support-vector-drawable-26.0.1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/8c15f1bd9072a479640750a39a4837c6/support-core-ui-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/92f81256a480e82d1d7ef6e5f2ce5064/support-core-utils-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:27:13-51

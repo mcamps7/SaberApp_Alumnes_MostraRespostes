@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.saberAppMostraRespostes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:5:5-31:19
+12        android:allowBackup="true"
+12-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:12:9-21:20
+21            android:name="com.example.android.saberAppMostraRespostes.MainActivity"
+21-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:13:13-84
+22            android:label="@string/app_name"
+22-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:14:13-45
+23            android:theme="@style/AppTheme.NoActionBar" >
+23-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:15:13-56
+24            <intent-filter>
+24-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:17:17-69
+25-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:19:17-77
+27-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:22:9-30:20
+31            android:name="com.example.android.saberAppMostraRespostes.PreguntaDetailActivity"
+31-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:23:13-94
+32            android:label="@string/title_pregunta_detail"
+32-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:24:13-58
+33            android:parentActivityName="com.example.android.saberAppMostraRespostes.MainActivity"
+33-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:25:13-98
+34            android:theme="@style/AppTheme.NoActionBar" >
+34-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:26:13-56
+35            <meta-data
+35-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:27:13-29:92
+36                android:name="android.support.PARENT_ACTIVITY"
+36-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:28:17-63
+37                android:value="com.example.android.saberAppMostraRespostes.MainActivity" />
+37-->/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/AndroidManifest.xml:29:17-89
+38        </activity>
+39
+40        <meta-data
+40-->[com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:26:9-28:38
+41            android:name="android.support.VERSION"
+41-->[com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:27:13-51
+42            android:value="26.0.1" />
+42-->[com.android.support:design:26.0.1] /Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/AndroidManifest.xml:28:13-35
+43    </application>
+44
+45</manifest>
