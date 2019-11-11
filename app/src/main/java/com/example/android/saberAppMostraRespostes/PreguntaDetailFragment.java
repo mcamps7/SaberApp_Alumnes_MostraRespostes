@@ -1,19 +1,27 @@
 package com.example.android.saberAppMostraRespostes;
 
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.media.Image;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.android.saberAppMostraRespostes.content.RespostesUtils;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
 
 
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
- * {@link PreguntaDetailFragment.OnFragmentInteractionListener} interface
+ * {@link PreguntaDetailFragment} interface
  * to handle interaction events.
  * Use the {@link PreguntaDetailFragment#newInstance} factory method to
  * create an instance of this fragment.
@@ -21,7 +29,7 @@ import com.example.android.saberAppMostraRespostes.content.RespostesUtils;
 public class PreguntaDetailFragment extends Fragment {
 
 
-    // SongItem includes the song title and detail.
+    // PreguntaItem includes the pregunta title and detail.
     public RespostesUtils.Pregunta mPregunta;
 
     public PreguntaDetailFragment() {
@@ -58,8 +66,16 @@ public class PreguntaDetailFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.pregunta_detail,
                 container, false);
 
-        // Show the detail information in a TextView.
+        // Show the detail information in a ImageView and a TextView.
         if (mPregunta != null) {
+            ImageView i = (ImageView)rootView.findViewById(R.id.image_detail);
+            Bitmap bitmap = null;
+            try {
+                bitmap = BitmapFactory.decodeStream((InputStream) new URL(mPregunta.imageUrl).getContent());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            i.setImageBitmap(bitmap);
             ((TextView) rootView.findViewById(R.id.pregunta_detail))
                     .setText(mPregunta.details);
         }

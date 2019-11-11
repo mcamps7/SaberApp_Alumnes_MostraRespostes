@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * The RecyclerView for the song list.
+     * The RecyclerView for the pregunta list.
      */
     class SimpleItemRecyclerViewAdapter
             extends RecyclerView.Adapter
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         /**
-         * This method inflates the layout for the song list.
+         * This method inflates the layout for the pregunta list.
          * @param parent ViewGroup into which the new view will be added.
          * @param viewType The view type of the new View.
          * @return A new ViewHolder
@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
         /**
          * This method implements a listener with setOnClickListener().
          * When the user taps a pregunta title, the code checks if mTwoPane
-         * is true, and if so uses a fragment to show the song detail.
+         * is true, and if so uses a fragment to show the pregunta detail.
          * If mTwoPane is not true, it starts PreguntaDetailActivity
          * using an intent with extra data about which pregunta title was selected.
          *
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     if (mTwoPane) {
-                        // Get selected song position in song list.
+                        // Get selected pregunta position in pregunta list.
                         int selectedPregunta = holder.getAdapterPosition();
                         // Create new instance of fragment and add it to
                         // the activity using a fragment transaction.
@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
                                 .commit();
                     } else {
                         // Send an intent to the PreguntaDetailActivity
-                        // with intent extra of the selected song position.
+                        // with intent extra of the selected pregunta position.
                         Context context = v.getContext();
                         Intent intent = new Intent(context,
                                 PreguntaDetailActivity.class);

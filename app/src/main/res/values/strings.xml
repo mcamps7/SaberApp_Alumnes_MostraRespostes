@@ -19,5 +19,6 @@
     <string name="title_pregunta_detail">Pregunta Detail</string>
     <string name="article_title">SaberArt Joc. 1</string>
     <string name="article_subtitle">Comprova tot el que saps sobre art!</string>
+    <string name="imatge_pregunta">La imatge de la pregunta</string>
 
 </resources>

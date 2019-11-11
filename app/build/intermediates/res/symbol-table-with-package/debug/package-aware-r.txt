@@ -817,6 +817,7 @@ id icon_group
 id id
 id ifRoom
 id image
+id image_detail
 id info
 id italic
 id item_touch_helper_previous_elevation

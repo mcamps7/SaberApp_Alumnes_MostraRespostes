@@ -27,7 +27,7 @@ import android.view.MenuItem;
 import com.example.android.saberAppMostraRespostes.content.RespostesUtils;
 
 /**
- * An activity that shows a fragment with song detail.
+ * An activity that shows a fragment with pregunta detail.
  */
 public class PreguntaDetailActivity extends AppCompatActivity {
 
@@ -45,7 +45,7 @@ public class PreguntaDetailActivity extends AppCompatActivity {
         }
 
         if (savedInstanceState == null) {
-            // Get the selected song position from the intent extra.
+            // Get the selected pregunta position from the intent extra.
             int selectedPregunta =
                     getIntent().getIntExtra(RespostesUtils.PREGUNTA_ID_KEY, 0);
             // Create instance of the detail fragment and add it to the activity
