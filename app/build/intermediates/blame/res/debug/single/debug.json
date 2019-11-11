@@ -32,6 +32,10 @@
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_pollock.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/pollock.jpg"
+    },
+    {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable/abc_ratingbar_material.xml"
     },
@@ -308,6 +312,10 @@
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/res/drawable/design_fab_background.xml"
     },
     {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_colors.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/colors.jpg"
+    },
+    {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
@@ -386,6 +394,10 @@
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/res/drawable-hdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_brocoli.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/brocoli.jpg"
     },
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_design_snackbar_background.xml.flat",
@@ -1208,6 +1220,10 @@
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_joana.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/joana.jpg"
+    },
+    {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/34f5e660ada0846f89f7aac9cf3a262d/support-compat-26.0.1/res/layout/notification_action.xml"
     },
@@ -1428,6 +1444,10 @@
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_guggenheim.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/guggenheim.jpg"
+    },
+    {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/res/drawable/navigation_empty_icon.xml"
     },
@@ -1458,6 +1478,10 @@
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_nit.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/nit.jpg"
     },
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1600,6 +1624,10 @@
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_icosaedre.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/icosaedre.jpg"
+    },
+    {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
@@ -1690,6 +1718,10 @@
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_guernica.jpg.flat",
+        "source": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/src/main/res/drawable/guernica.jpg"
     },
     {
         "merged": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",

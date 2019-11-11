@@ -69,13 +69,7 @@ public class PreguntaDetailFragment extends Fragment {
         // Show the detail information in a ImageView and a TextView.
         if (mPregunta != null) {
             ImageView i = (ImageView)rootView.findViewById(R.id.image_detail);
-            Bitmap bitmap = null;
-            try {
-                bitmap = BitmapFactory.decodeStream((InputStream) new URL(mPregunta.imageUrl).getContent());
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            i.setImageBitmap(bitmap);
+            i.setImageResource(mPregunta.idImage);
             ((TextView) rootView.findViewById(R.id.pregunta_detail))
                     .setText(mPregunta.details);
         }
