@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean mTwoPane = false;
 
     /**
-     * Sets up a song list as a RecyclerView, and determines
+     * Sets up a pregunta list as a RecyclerView, and determines
      * whether the screen is wide enough for two-pane mode.
      * The pregunta_detail_container view for MainActivity will be
      * present only if the screen's width is 900dp or larger,

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SaberAppMostraRespostes.iml" filepath="$PROJECT_DIR$/SaberAppMostraRespostes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EAC3_P1_Camps_Montse.iml" filepath="$PROJECT_DIR$/EAC3_P1_Camps_Montse.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

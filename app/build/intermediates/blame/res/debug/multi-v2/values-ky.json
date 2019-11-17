@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/Users/montse/ProjectesAndroidStudio/EAC3_P1_Camps_Montse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/307a7566fa67cfe2495f6ae1cc0868c2/appcompat-v7-26.0.1/res/values-ky/values-ky.xml",

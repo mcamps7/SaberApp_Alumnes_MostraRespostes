@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/montse/ProjectesAndroidStudio/EAC3_P1_Camps_Montse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/bbe0d4ee8c798cdb9d9b4f6aed341238/design-26.0.1/res/values-land/values-land.xml",

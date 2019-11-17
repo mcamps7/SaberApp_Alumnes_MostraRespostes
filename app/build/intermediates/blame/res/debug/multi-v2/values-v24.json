@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/montse/ProjectesAndroidStudio/SaberAppMostraRespostes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/montse/ProjectesAndroidStudio/EAC3_P1_Camps_Montse/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/montse/.gradle/caches/transforms-2/files-2.1/216267ac87300b613347f0a55d93647c/support-media-compat-26.0.1/res/values-v24/values-v24.xml",
